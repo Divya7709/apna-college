@@ -1,4 +1,4 @@
-# apna-college
+cd# apna-college
 This is my first repository.
 <br>
-Author Divya phad
+Author Divya phad(apna-college)
